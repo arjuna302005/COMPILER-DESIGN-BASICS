@@ -196,3 +196,4 @@ This small yet powerful program is a gateway to understanding compiler design, d
 
  output
 
+![Image](https://github.com/user-attachments/assets/c57b704b-d008-4075-9087-6e0015b3d0c5)
