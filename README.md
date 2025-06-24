@@ -1,4 +1,4 @@
-# COMPILER-DESIGN-BASICSMore actions
+# COMPILER-DESIGN-BASICS
 
 COMPANY NAME -CODTECH IT SOLUTIONS
 
@@ -159,7 +159,27 @@ Improved C++ fluency using STL and parsing techniques.
 🎯 Real-World Applications
 
 
-@@ -183,19 +183,21 @@
+🧮 Calculator software
+
+🔧 Compiler design (expression parsing)
+
+📊 Spreadsheet engines
+
+🧠 Math-learning tools
+
+🧪 Scientific computation
+
+🔚 Final Thoughts
+
+
+This small yet powerful program is a gateway to understanding compiler design, data structures, and algorithmic problem-solving. It introduces you to expression evaluation in a structured, manageable way.
+
+✅ It’s beginner-friendly, but also foundational for more advanced interpreter or compiler design.
+
+
+🤓 Learning Checklist
+
+
  Parse arithmetic expressions
 
  Use stacks effectively
@@ -171,16 +191,8 @@ Improved C++ fluency using STL and parsing techniques.
  Design command-line calculators
 
 
- output
 
 
 
  output
 
- Handle exceptions
-
- Implement precedence rules
-
- Design command-line calculators
- 
- COMPILER-DESIGN-BASICS
